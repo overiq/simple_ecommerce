@@ -1,0 +1,8 @@
+env/
+.idea/
+db.sqlite3
+__pycache__/
+celerybeat-schedule
+celerybeat.pid
+django_project/static/
+ngrok
